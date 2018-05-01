@@ -11,4 +11,12 @@
 .tl_article .tl_article_header {
 	color: #333;
 }
+.tl_article .tl_article_content .figure_wrapper img,
+.tl_article .tl_article_content .figure_wrapper video {
+	opacity: 0.1;
+}
+.tl_article .tl_article_content .figure_wrapper img:hover,
+.tl_article .tl_article_content .figure_wrapper video:hover {
+	opacity: 1;
+}
 }
