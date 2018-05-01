@@ -1,3 +1,14 @@
 @-moz-document domain("telegra.ph") {
-
+  body {
+	background-color: #050505;
+}
+.tl_article a[href],
+.tl_article address {
+	color: #222;
+}
+.tl_article .tl_article_content,
+.tl_article .tl_article_content .ql-editor,
+.tl_article .tl_article_header {
+	color: #333;
+}
 }
