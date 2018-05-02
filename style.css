@@ -19,4 +19,8 @@ body {
 .tl_article .tl_article_content .figure_wrapper video:hover {
 	opacity: 1;
 }
+.tl_article .tl_article_content figcaption,
+.tl_article .tl_article_content figcaption .editable_input {
+	color: #222;
+}
 }
