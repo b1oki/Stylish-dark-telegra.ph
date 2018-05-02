@@ -23,4 +23,9 @@ body {
 .tl_article .tl_article_content figcaption .editable_input {
 	color: #222;
 }
+.tl_article .tl_article_content code,
+.tl_article .tl_article_content pre {
+	background-color: #020202;
+	color: #151;
+}
 }
